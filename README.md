@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @brilapro
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+brilapro/brilapro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Spanish...
+Hola 
+este es mi primer día como desarrolladora :3 
+¡¡¡¡Estoy empezando mi nueva carrera que tenga un buen día!!!!
+
+Inglish....
+Hello 
+this is my first day as a developer :3 
+I am starting my new career have a nice day!!!!
